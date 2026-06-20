@@ -110,5 +110,15 @@
   "languageToggle": {
     "en": "English",
     "es": "Español"
+  },
+  "seo": {
+    "home": {
+      "title": "Cabo Cleaning | Limpieza de Villas de Lujo y Mayordomo en Los Cabos",
+      "description": "Limpieza premium de villas, servicio de mayordomo y desayunos gourmet para villas de lujo en Los Cabos. Servicio de confianza en Pedregal, Palmilla, Quivira, Cabo del Sol. Consulta sin costo.",
+      "keywords": "limpieza de villas Los Cabos, mayordomo Cabo San Lucas, limpieza de lujo villas, servicio de mayordomo Cabo, limpieza Airbnb Cabo, administración villas Cabo, villa cleaning Los Cabos, Pedregal limpieza, Palmilla housekeeping",
+      "ogTitle": "Cabo Cleaning | Cuidado de Villas de Lujo y Mayordomo en Los Cabos",
+      "ogDescription": "Limpieza premium de villas, servicio de mayordomo y desayunos gourmet para las mejores villas de Los Cabos. Consulta sin costo.",
+      "ogImageAlt": "Cabo Cleaning — Cuidado de Villas de Lujo en Los Cabos"
+    }
   }
 }

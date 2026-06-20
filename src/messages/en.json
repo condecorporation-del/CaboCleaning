@@ -110,5 +110,15 @@
   "languageToggle": {
     "en": "English",
     "es": "Español"
+  },
+  "seo": {
+    "home": {
+      "title": "Cabo Cleaning | Luxury Villa Cleaning & Butler Service in Los Cabos",
+      "description": "Premium villa cleaning, butler service, and gourmet breakfasts for luxury villas in Los Cabos. Trusted by owners in Pedregal, Palmilla, Quivira, Cabo del Sol. Free consultation.",
+      "keywords": "villa cleaning Los Cabos, butler service Cabo, luxury villa housekeeping, Airbnb cleaning Cabo San Lucas, villa management Cabo, limpieza de villas Los Cabos, mayordomo Cabo, Pedregal villa cleaning, Palmilla housekeeping",
+      "ogTitle": "Cabo Cleaning | Luxury Villa Care & Butler Service in Los Cabos",
+      "ogDescription": "Premium villa cleaning, butler service, and gourmet breakfasts for the finest villas in Los Cabos. Free consultation available.",
+      "ogImageAlt": "Cabo Cleaning — Luxury Villa Care in Los Cabos"
+    }
   }
 }
