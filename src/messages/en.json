@@ -1,0 +1,114 @@
+{
+  "site": {
+    "title": "Cabo Cleaning | Luxury Villa Care & Butler Service in Los Cabos",
+    "description": "Premium villa cleaning, butler service, and breakfast preparation in Los Cabos. Trusted by villa owners in Pedregal, Palmilla, Quivira, Cabo del Sol, and Querencia."
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "team": "Our Team",
+    "howItWorks": "How It Works",
+    "testimonials": "Testimonials",
+    "contact": "Contact"
+  },
+  "hero": {
+    "headline": "Luxury Villa Care, Authentic Mexican Hospitality",
+    "subheadline": "Premium cleaning, butler service, and breakfast preparation for the finest villas in Los Cabos.",
+    "cta": "Request a Free Quote",
+    "secondaryCta": "How It Works"
+  },
+  "trustSignals": {
+    "certified": "Certified Butler",
+    "certifiedDesc": "9+ years in ultra-luxury hospitality",
+    "local": "Local Team",
+    "localDesc": "Based in Los Cabos, we know every neighborhood",
+    "insured": "Fully Insured",
+    "insuredDesc": "Your property is protected",
+    "freeVisit": "Free Consultation",
+    "freeVisitDesc": "No cost, no obligation site visit"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Everything your villa needs to deliver a five-star guest experience",
+    "villaCleaning": {
+      "title": "Villa Cleaning",
+      "description": "Complete cleaning with hotel-grade standards. Every surface, every corner — spotless. We use eco-friendly, non-toxic products safe for your guests and your property."
+    },
+    "butler": {
+      "title": "Butler Service",
+      "description": "A certified butler who anticipates every need. From welcoming guests to coordinating services — your villa runs like a five-star resort."
+    },
+    "breakfast": {
+      "title": "Breakfast Service",
+      "description": "Fresh, beautifully presented breakfasts prepared in your villa. Mexican specialties and international classics — tailored to your guests' preferences."
+    },
+    "deepCleaning": {
+      "title": "Deep Cleaning",
+      "description": "Post-construction, seasonal, or move-in/move-out deep cleaning. We restore your villa to pristine condition from top to bottom."
+    },
+    "turnover": {
+      "title": "Airbnb & VRBO Turnover",
+      "description": "Fast, reliable turnover cleaning synced to your booking calendar. Your property is always guest-ready for the next five-star review."
+    }
+  },
+  "team": {
+    "title": "The Team Behind Cabo Cleaning",
+    "subtitle": "Real people. Real credentials. Real care for your villa.",
+    "marlon": {
+      "name": "Marlon",
+      "role": "Certified Butler & Founder",
+      "bio": "With 9+ years of experience in ultra-luxury hospitality, Marlon has served the most discerning guests at world-class resorts. He brings that same standard of excellence to every villa he cares for."
+    },
+    "cecilia": {
+      "name": "Cecilia",
+      "role": "Head of Cleaning & Hospitality",
+      "bio": "Cecilia ensures every detail is perfect — from the crispness of the linens to the presentation of every surface. Her eye for detail transforms a clean villa into a welcoming home."
+    }
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "subtitle": "Simple, transparent, reliable — in four easy steps",
+    "step1": {
+      "title": "1. You Reach Out",
+      "description": "Send us a message via WhatsApp or our contact form. Tell us about your villa and what you need."
+    },
+    "step2": {
+      "title": "2. Free Site Visit",
+      "description": "We visit your villa at no cost. We assess the space, understand your needs, and answer every question."
+    },
+    "step3": {
+      "title": "3. Custom Proposal",
+      "description": "You receive a detailed, transparent quote tailored to your villa and service requirements."
+    },
+    "step4": {
+      "title": "4. Five-Star Service",
+      "description": "We start caring for your villa. You and your guests experience hotel-grade service — every single time."
+    }
+  },
+  "testimonials": {
+    "title": "What Villa Owners Say",
+    "subtitle": "Trusted by property owners across Los Cabos"
+  },
+  "contact": {
+    "title": "Let's Talk About Your Villa",
+    "subtitle": "Every great stay starts with a clean, welcoming home. Let us take care of yours.",
+    "whatsapp": "Message us on WhatsApp",
+    "email": "Send us an email",
+    "formTitle": "Request a Quote",
+    "name": "Your Name",
+    "email": "Your Email",
+    "phone": "Phone (optional)",
+    "message": "Tell us about your villa and what you need",
+    "submit": "Send Request"
+  },
+  "footer": {
+    "areas": "Serving Los Cabos",
+    "areasList": "Pedregal · Palmilla · Quivira · Cabo del Sol · Querencia · El Tezal · Diamante · Puerto Los Cabos · Tourist Corridor",
+    "platforms": "We work with",
+    "copyright": "© 2026 Cabo Cleaning. All rights reserved."
+  },
+  "languageToggle": {
+    "en": "English",
+    "es": "Español"
+  }
+}

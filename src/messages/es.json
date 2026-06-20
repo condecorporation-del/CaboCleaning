@@ -1,0 +1,114 @@
+{
+  "site": {
+    "title": "Cabo Cleaning | Cuidado de Villas de Lujo y Servicio de Mayordomo en Los Cabos",
+    "description": "Limpieza premium de villas, servicio de mayordomo y preparación de desayunos en Los Cabos. Servicio de confianza para propietarios en Pedregal, Palmilla, Quivira, Cabo del Sol y Querencia."
+  },
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "team": "Nuestro Equipo",
+    "howItWorks": "Cómo Funciona",
+    "testimonials": "Reseñas",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "headline": "Cuidado de Villas de Lujo, Hospitalidad Mexicana Auténtica",
+    "subheadline": "Limpieza premium, servicio de mayordomo y preparación de desayunos para las mejores villas de Los Cabos.",
+    "cta": "Solicita Cotización Gratuita",
+    "secondaryCta": "Cómo Funciona"
+  },
+  "trustSignals": {
+    "certified": "Mayordomo Certificado",
+    "certifiedDesc": "Más de 9 años en hotelería de ultra lujo",
+    "local": "Equipo Local",
+    "localDesc": "Basados en Los Cabos, conocemos cada zona",
+    "insured": "Totalmente Asegurado",
+    "insuredDesc": "Tu propiedad está protegida",
+    "freeVisit": "Visita Sin Costo",
+    "freeVisitDesc": "Evaluación del sitio sin compromiso"
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Todo lo que tu villa necesita para una experiencia de cinco estrellas",
+    "villaCleaning": {
+      "title": "Limpieza de Villas",
+      "description": "Limpieza completa con estándares de hotel. Cada superficie, cada rincón — impecable. Usamos productos ecológicos no tóxicos, seguros para tus huéspedes y tu propiedad."
+    },
+    "butler": {
+      "title": "Servicio de Mayordomo",
+      "description": "Un mayordomo certificado que anticipa cada necesidad. Desde recibir a los huéspedes hasta coordinar servicios — tu villa funciona como un resort cinco estrellas."
+    },
+    "breakfast": {
+      "title": "Servicio de Desayunos",
+      "description": "Desayunos frescos y bellamente presentados, preparados en tu villa. Especialidades mexicanas y clásicos internacionales — adaptados a las preferencias de tus huéspedes."
+    },
+    "deepCleaning": {
+      "title": "Limpieza Profunda",
+      "description": "Limpieza post-construcción, de temporada o de entrada/salida. Devolvemos tu villa a su estado impecable de arriba a abajo."
+    },
+    "turnover": {
+      "title": "Rotación Airbnb y VRBO",
+      "description": "Limpieza de rotación rápida y confiable, sincronizada con tu calendario de reservas. Tu propiedad siempre lista para la próxima reseña de cinco estrellas."
+    }
+  },
+  "team": {
+    "title": "El Equipo Detrás de Cabo Cleaning",
+    "subtitle": "Personas reales. Credenciales reales. Cuidado real para tu villa.",
+    "marlon": {
+      "name": "Marlon",
+      "role": "Mayordomo Certificado y Fundador",
+      "bio": "Con más de 9 años de experiencia en hotelería de ultra lujo, Marlon ha servido a los huéspedes más exigentes en resorts de clase mundial. Lleva ese mismo estándar de excelencia a cada villa que cuida."
+    },
+    "cecilia": {
+      "name": "Cecilia",
+      "role": "Jefa de Limpieza y Hospitalidad",
+      "bio": "Cecilia se asegura de que cada detalle sea perfecto — desde la nitidez de la ropa de cama hasta la presentación de cada superficie. Su ojo para el detalle transforma una villa limpia en un hogar acogedor."
+    }
+  },
+  "howItWorks": {
+    "title": "Cómo Funciona",
+    "subtitle": "Simple, transparente, confiable — en cuatro pasos",
+    "step1": {
+      "title": "1. Tú Nos Contactas",
+      "description": "Envíanos un mensaje por WhatsApp o nuestro formulario. Cuéntanos sobre tu villa y lo que necesitas."
+    },
+    "step2": {
+      "title": "2. Visita Sin Costo",
+      "description": "Visitamos tu villa sin costo. Evaluamos el espacio, entendemos tus necesidades y respondemos todas tus preguntas."
+    },
+    "step3": {
+      "title": "3. Propuesta Personalizada",
+      "description": "Recibes una cotización detallada y transparente, adaptada a tu villa y los servicios que requieres."
+    },
+    "step4": {
+      "title": "4. Servicio Cinco Estrellas",
+      "description": "Empezamos a cuidar tu villa. Tú y tus huéspedes reciben servicio de nivel hotelero — siempre."
+    }
+  },
+  "testimonials": {
+    "title": "Lo Que Dicen Los Propietarios",
+    "subtitle": "Servicio de confianza para propietarios en todo Los Cabos"
+  },
+  "contact": {
+    "title": "Hablemos de Tu Villa",
+    "subtitle": "Cada gran estancia comienza con un hogar limpio y acogedor. Déjanos cuidar el tuyo.",
+    "whatsapp": "Escríbenos por WhatsApp",
+    "email": "Envíanos un correo",
+    "formTitle": "Solicitar Cotización",
+    "name": "Tu Nombre",
+    "email": "Tu Correo Electrónico",
+    "phone": "Teléfono (opcional)",
+    "message": "Cuéntanos sobre tu villa y lo que necesitas",
+    "submit": "Enviar Solicitud"
+  },
+  "footer": {
+    "areas": "Servicio en Los Cabos",
+    "areasList": "Pedregal · Palmilla · Quivira · Cabo del Sol · Querencia · El Tezal · Diamante · Puerto Los Cabos · Corredor Turístico",
+    "platforms": "Trabajamos con",
+    "copyright": "© 2026 Cabo Cleaning. Todos los derechos reservados."
+  },
+  "languageToggle": {
+    "en": "English",
+    "es": "Español"
+  }
+}

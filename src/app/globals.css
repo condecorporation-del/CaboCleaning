@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+:root {
+  --color-cream: #FAF8F5;
+  --color-stone: #E8E2D9;
+  --color-sand: #D4C5B2;
+  --color-warm-gray: #8B8581;
+  --color-charcoal: #2D2D2D;
+  --color-gold: #C4A265;
+  --color-sage: #8B9D83;
+}
+
+body {
+  font-family: var(--font-inter), system-ui, sans-serif;
+}
+
+h1, h2, h3, h4, .font-display {
+  font-family: var(--font-playfair), Georgia, serif;
+}
+
+/* Smooth scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom selection color */
+::selection {
+  background-color: #C4A265;
+  color: #FAF8F5;
+}
+
+/* WhatsApp pulse animation */
+@keyframes pulse-whatsapp {
+  0%, 100% {
+    box-shadow: 0 0 0 0 rgba(37, 211, 102, 0.4);
+  }
+  50% {
+    box-shadow: 0 0 0 16px rgba(37, 211, 102, 0);
+  }
+}
+
+.whatsapp-pulse {
+  animation: pulse-whatsapp 2s infinite;
+}
